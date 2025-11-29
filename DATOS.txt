@@ -1,0 +1,10 @@
+Carrera: Diseño Multimedia
+Materia: Diseño y Programación Web I
+Año: 2025
+Comisión: DMN3AP
+Turno: Noche 
+Nombre: Matias Porfilio 
+Docente: Antonio Rubio
+Entrega: Segundo Parcial
+
+URL: https://matiasporfilio-prog.github.io/FluxStudio/
